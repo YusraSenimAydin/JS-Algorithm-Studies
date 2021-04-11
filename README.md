@@ -1,1 +1,1 @@
-# js-calismalarim
+# Javascript Algorithm Studies

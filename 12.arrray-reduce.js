@@ -1,7 +1,3 @@
-
-
-
-
 /*
 function toplamiBul() {
     let toplam = 0;
